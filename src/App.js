@@ -1,18 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import { Component } from "react";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Librería Claraboya
-        </p>
-        
-      </header>
-    </div>
-  );
+//Components
+import NavBar from "./Components/Header/NavBar";
+import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <NavBar />
+        <ItemListContainer greeting="Bienvenido a Librería Claraboya" />
+      </div>
+    );
+  }
 }
 
 export default App;
