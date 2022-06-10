@@ -1,0 +1,138 @@
+[
+    {
+      "title": "La piedra lunar",
+      "author": "Verónica Chamorroa",
+      "category" : "Categoría : infantil",
+      "price": 900,
+      "id": 1,
+      "pictureUrl": "https://i.postimg.cc/87MxK99Y/piedra-Lunar.jpg",
+      "description":"Descripción: Un precioso diamante de color cambiante conocido como la Piedra Lunar es robado de la estatua de un dios hindú por un oficial inglés pese a la maldición que protege la piedra. Años más tarde, su sobrina, una joven adinerada de la sociedad victoriana, hereda la joya por su cumpleaños. Pero la piedra no viaja sola."
+    },
+    {
+      "title":"El destino de Fausto",
+      "author": "Olivia Jeffers",
+      "category" : "Categoría : infantil",
+      "price": 1200,
+      "id": 2,
+      "pictureUrl": "https://i.postimg.cc/K1TyXRkJ/infantil-destino-fausto.jpg",
+      "description": "No disponible"
+    },
+    
+    {
+      "title": "Invictor",
+      "author": "Los Compas",
+      "category" : "Categoría : infantil",
+      "price": 1400,
+      "id": 4,
+      "pictureUrl": "https://i.postimg.cc/bGjfqp18/infantil-invictor.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Anne de los Tejados Verdes",
+      "author": "Lucy Maud",
+      "category" : "Categoría: juvenil",
+      "price": 1395,
+      "id": 5,
+      "pictureUrl": "https://i.postimg.cc/zLSZB6kh/juvenil-anne.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Heist",
+      "author": "Ariana Godoy",
+      "category" : "Categoría : juvenil",
+      "price": 1720,
+      "id": 6,
+      "pictureUrl": "https://i.postimg.cc/r0V6tjhP/juvenil-heist.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Perfectos Mentirosos",
+      "author": "Alex Mírez",
+      "category" : "Categoría : juvenil",
+      "price": 1399,
+      "id": 7,
+      "pictureUrl": "https://i.postimg.cc/k6f0NSzX/juvenil-perfectos-mentirosos.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Todo este tiempo",
+      "author": "Rachael Lippincott",
+      "category" : "Categoría : juvenil",
+      "price": 1700,
+      "id": 8,
+      "pictureUrl": "https://i.postimg.cc/n9r63zfK/juvenil-todo-este-tiempo.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "La Vida Invisible De Addie",
+      "author": "V.e. Schwab",
+      "category" : "Categoría : Ficción",
+      "price": 2150,
+      "id": 9,
+      "pictureUrl": "https://i.postimg.cc/8j9Vnh57/ficcion-vida-invisible.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "La tía Cosima",
+      "author": "Florencia Bonelli",
+      "category" : "Categoría : Ficción",
+      "price": 949,
+      "id": 10,
+      "pictureUrl": "https://i.postimg.cc/dDWFGMcm/ficcion-tia-cosima.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Un cuento perfecto",
+      "author": "Elisabet Benavent",
+      "category" : "Categoría : Ficción",
+      "price": 2500,
+      "id": 11,
+      "pictureUrl": "https://i.postimg.cc/hQGqNsTd/ficcion-cuento-perfecto.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Matilde debe morir",
+      "author": "Cristian Acevedo",
+      "category" : "Categoría : Ficción",
+      "price": 985,
+      "id": 12,
+      "pictureUrl": "https://i.postimg.cc/Jt7myrvz/ficcion-matilde-debe-morir.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Biografía de un mito",
+      "author": "Cristina Piña",
+      "category" : "Categoría : No - Ficción",
+      "price": 1699,
+      "id": 13,
+      "pictureUrl": "https://i.postimg.cc/kBkkyq18/no-ficcion-pizarnik.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "El infinito en un junco",
+      "author": "Irene Vallejo",
+      "category" : "Categoría : No - Ficción",
+      "price": 2300,
+      "id": 14,
+      "pictureUrl": "https://i.postimg.cc/F1nt7j0T/no-ficcion-el-infinito.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "El dilema humano",
+      "author": "Joan Cwaik",
+      "category" : "Categoría : No - Ficción",
+      "price": 1590,
+      "id": 15,
+      "pictureUrl": "https://i.postimg.cc/HjLDYS8J/no-ficcion-dilema.jpg",
+      "description": "No disponible"
+    },
+    {
+      "title": "Las señoritas",
+      "author": "Laura Ramos",
+      "category" : "Categoría : No - Ficción",
+      "price": 1499,
+      "id": 16,
+      "pictureUrl": "https://i.postimg.cc/CzZ3DzNS/no-ficcion-las-se-oritas.jpg",
+      "description": "No disponible"
+    }
+  ]

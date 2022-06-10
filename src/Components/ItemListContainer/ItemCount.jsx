@@ -17,11 +17,7 @@ const ItemCount = ({ stock, initial, producto }) => {
   };
 
   const remove = () => {
-    if (counter > 0) {
-      if (counter > 1) {
-        setCounter(counter - 1);
-      }
-    }
+    counter > 1 && setCounter(counter - 1)
   };
 
   return (

@@ -1,0 +1,19 @@
+.masVendidos h2 {
+    margin-top: 20% ;
+}
+
+.BooksContainer {
+    display:inline-flex;
+    margin: 2%;
+}
+
+.img{
+    margin: 2%;
+}
+
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:2% 0%;
+    text-align: center;
+    margin-right: -55%;
+}

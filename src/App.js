@@ -3,19 +3,23 @@ import "./App.css";
 
 //Components
 import NavBar from "./Components/Header/NavBar";
-import ItemCount from "./Components/ItemListContainer/ItemCount";
-import ItemListContainer from "./Components/ItemListContainer/ItemListContainer";
+import ItemListContainer from './Components/ItemListContainer/ItemListContainer';
+import ItemDetailContainer from './Components/ItemListContainer/ItemDetailContainer';
+
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <NavBar />
-        <ItemListContainer greeting="Bienvenido a Librería Claraboya" />
-        <ItemCount stock="5" initial="1" producto="Harry Potter" />
-      </div>
-    );
-  }
+  render(){
+  return (
+    <div className="App">
+      <NavBar />
+      <main>
+      <ItemListContainer/> 
+      </main>  
+      <ItemDetailContainer />
+
+   </div>
+    
+  );}
 }
 
 export default App;
